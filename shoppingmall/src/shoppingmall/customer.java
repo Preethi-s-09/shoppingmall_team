@@ -1,6 +1,7 @@
 package shoppingmall;
 
 public class customer {
+	int a;
 	int cid;
 	String cname;
 	public int getCid() {
